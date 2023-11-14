@@ -1,3 +1,3 @@
 # Kokoa-clone-2023-practice
 
-CSS got so much better!
+Html and CSS are so much fun!
