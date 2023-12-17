@@ -1,0 +1,26 @@
+.badge{
+background-color: tomato;
+width: 25px;
+height: 25px;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-weight: 600;
+}
+
+.badge-point{
+background-color: tomato;
+width: 6px;
+height: 6px;
+border-radius: 50%;
+}
+
+.new-badge{
+    width: 17px;
+    height: 17px;
+    margin-left: 5px;
+    font-size: 10px;
+    
+}
